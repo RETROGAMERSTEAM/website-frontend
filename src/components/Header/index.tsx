@@ -7,7 +7,7 @@ function Header(){
 
     return (
         <StyledHeader>
-            <Title>RETRO GAMERS</Title>
+            <img src="/retrogamerss-removebg-preview.png" alt="" />
             <nav>
                 <Ul>
                     <Li>
